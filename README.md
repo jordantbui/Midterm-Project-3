@@ -3,7 +3,7 @@
 
 CPP Fall 2020
 
-CS3310 Design and Analysis of Algorithms
+CS 3310 Design and Analysis of Algorithms
 
 Midterm Project 3 Code Implementation
 
