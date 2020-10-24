@@ -18,7 +18,7 @@ Chained Matrix Multiplication using the Yao Solution should demonstrates faster 
 
 **Time Complexity:<br>**
 Yao Solution:<br>
-- T(n) = O(n^2)<br><br>
+- T(n) = O(n^2)<br>
 Godbole Solution:<br>
 - T(n) = O(n^3)
 
@@ -26,7 +26,7 @@ Google Docs Yao Solution Lecture
 -
 Lecture explaining the process behind the Yao Solution for Chained Matrix Multiplication and analyzinging time and space complexity of the solution. Analysis shows the improvement of the Yao Solution from the Godbole Solution for Chained Matrix Multiplication.
 
-Link:
+Link:<br>
 https://docs.google.com/document/d/16rrxzhGv7-2wGN0f_olVrVS1bfS9ghyS4sgPIsDbK4w/edit?usp=sharing
 
 
