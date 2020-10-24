@@ -16,7 +16,7 @@ Chained Matrix Multiplication by dynamic programming, using Yao Solution, should
 **Time Complexity:<br>**
 Yao Solution:<br>
   * T(n) = O(n<sup>2</sup>)
-  <br>
+  
 Godbole Solution:<br>
   * T(n) = O(n<sup>3</sup>)
   
