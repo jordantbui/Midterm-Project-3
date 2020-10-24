@@ -20,7 +20,7 @@ Yao Solution:<br>
 Godbole Solution:<br>
   * T(n) = O(n<sup>3</sup>)
   
-Google Docs Yao Solution Lecture
+Yao Solution Lecture (Google Docs)
 -
 Lecture explaining the process behind the Yao Solution for Chained Matrix Multiplication and analyzinging time and space complexity of the solution. Analysis shows the improvement of the Yao Solution from the Godbole Solution for Chained Matrix Multiplication.
 
