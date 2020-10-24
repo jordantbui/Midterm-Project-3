@@ -4,9 +4,10 @@
 Jordan Bui (BroncoID: 011821368)<br>
 CPP Fall 2020<br>
 CS 3310 Design and Analysis of Algorithms
+
 Midterm Project 3 Code Implementation
 -
-Implementation for Chained Matrix Multiplication using the Yao Solution (1982).
+Implementation for Chained Matrix Multiplication using the Yao Solution (1982) with Time Complexity of O(n<sup>2</sup?.
 
 Chained Matrix Multiplication: Yao Solution (1982)
 -
