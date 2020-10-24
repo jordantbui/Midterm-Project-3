@@ -14,8 +14,12 @@ Implementation for Chained Matrix Multiplication using the Yao Solution (1982), 
 
 Chained Matrix Multiplication: Yao Solution (1982)
 -
-Chained Matrix Multiplication using the Yao Solution should demonstrates faster time complexity using dynamic programming.<br><br>
+Chained Matrix Multiplication using the Yao Solution should demonstrates faster time complexity using dynamic programming.
 
-Lecture Link: https://docs.google.com/document/d/16rrxzhGv7-2wGN0f_olVrVS1bfS9ghyS4sgPIsDbK4w/edit?usp=sharing
+
+<br><br>
+Lecture Link:
+
+https://docs.google.com/document/d/16rrxzhGv7-2wGN0f_olVrVS1bfS9ghyS4sgPIsDbK4w/edit?usp=sharing
 
 
