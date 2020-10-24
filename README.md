@@ -17,9 +17,9 @@ Chained Matrix Multiplication: Yao Solution (1982)
 Chained Matrix Multiplication using the Yao Solution should demonstrates faster time complexity using dynamic programming.
 
 **Time Complexity:<br>**
-* Yao Solution:<br>
+Yao Solution:<br>
   * T(n) = O(n^2)<br>
-* Godbole Solution:<br>
+Godbole Solution:<br>
   * T(n) = O(n^3)
 
 Google Docs Yao Solution Lecture
