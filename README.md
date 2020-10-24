@@ -1,5 +1,5 @@
-# Chained Matrix Multiplication: Yao Solution (1982)
 # Midterm Project 3 - CS 3310
+# Chained Matrix Multiplication: Yao Solution (1982)
 10/23/2020
 
 Jordan Bui (BroncoID: 011821368)
