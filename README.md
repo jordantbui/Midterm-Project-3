@@ -7,7 +7,7 @@ CS 3310 Design and Analysis of Algorithms
 
 Midterm Project 3 Code Implementation
 -
-Implementation for Chained Matrix Multiplication using the Yao Solution (1982) with Time Complexity of O(n<sup>2).
+Implementation for Chained Matrix Multiplication using the Yao Solution (1982) with Time Complexity of O(n<sup>2</sup>).
 
 Chained Matrix Multiplication: Yao Solution (1982)
 -
@@ -15,10 +15,10 @@ Chained Matrix Multiplication by dynamic programming, using Yao Solution, should
 
 **Time Complexity:<br>**
 Yao Solution:<br>
-  * T(n) = O(n^2)
+  * T(n) = O(n<sup>2</sup>)
   <br>
 Godbole Solution:<br>
-  * T(n) = O(n^3)
+  * T(n) = O(n<sup>3</sup>)
   
 Google Docs Yao Solution Lecture
 -
