@@ -1,13 +1,10 @@
-Sample Test Run:<br><br>
+Sample Test Run
+----------------------------------------
 
 Jordan Bui
-
 011821368
-
-10/23/2020<br>
+10/23/2020
 
 CS 3310 Midterm Project 3:
-
 Chained Matrix Multiplication: Yao(1982)
-
 ----------------------------------------
