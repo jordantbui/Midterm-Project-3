@@ -10,11 +10,11 @@ CS 3310 Design and Analysis of Algorithms
 
 Midterm Project 3 Code Implementation
 -
-Implementation for Chained Matrix Multiplication using the Yao Solution (1982)
+Implementation for Chained Matrix Multiplication using the Yao Solution (1982), supposedly demonstrating faster time complexity for matrix multiplication using dynamic programming.
 
 Chained Matrix Multiplication: Yao Solution (1982)
 -
-Chained Matrix Multiplication
+Chained Matrix Multiplication using the Yao Solution should demonstrates faster time complexity using dynamic programming.
 
 Lecture Link: https://docs.google.com/document/d/16rrxzhGv7-2wGN0f_olVrVS1bfS9ghyS4sgPIsDbK4w/edit?usp=sharing
 
